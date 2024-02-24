@@ -1,1 +1,1 @@
-I just clone the landing page of Dentytech website for practice.
+I just try to create a landing page of website for practice my self.
