@@ -1,0 +1,1 @@
+I just clone the landing page of Dentytech website for practice.
